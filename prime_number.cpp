@@ -16,6 +16,7 @@ int main(int argc, char const *argv[])
        	c=false;
        	break;
        }
+	i++;
 	}
 
 	if (c)
